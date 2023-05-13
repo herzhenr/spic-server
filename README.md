@@ -1,6 +1,5 @@
 # Simple Play Integrity Checker Server Component
 
-# SPIC - Simple Play Integrity Checker
 <p align="center">
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black">
