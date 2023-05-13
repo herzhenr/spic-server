@@ -1,5 +1,12 @@
 # Simple Play Integrity Checker Server Component
 
+# SPIC - Simple Play Integrity Checker
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black">
+  <a href="https://github.com/herzhenr/spic-server/releases"><img src="https://img.shields.io/github/release/herzhenr/spic-server.svg?logo=github&color=blue"></a>
+</p>
+
 Server component for SPIC - Simple Play Integrity Checker which receives the encrypted json verdicts, decrypts and verifies them locally on the server or sends them to a Google API for decryption and verification and sends the response back to the client. It is also used for nonce generation as the initial step of attestation.
 
 # Disclaimer
